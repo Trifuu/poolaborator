@@ -1,3 +1,4 @@
-text pentru exemplu
-
-am sters ce nu imi placea de aici
+int suma(int a, int b)
+{
+    return a+b;
+}
